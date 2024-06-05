@@ -1,0 +1,23 @@
+Multi-Layer Perceptron (MLP) Sonuçları:
+Doğruluk Oranı (Accuracy): 0.723
+Sınıflandırma Raporu:
+              precision    recall  f1-score   support
+
+           0       0.77      0.81      0.79       151
+           1       0.61      0.55      0.58        80
+
+    accuracy                           0.72       231
+   macro avg       0.69      0.68      0.69       231
+weighted avg       0.72      0.72      0.72       231
+
+Support Vector Machines (SVM) Sonuçları:
+Doğruluk Oranı (Accuracy): 0.736
+Sınıflandırma Raporu:
+              precision    recall  f1-score   support
+
+           0       0.76      0.87      0.81       151
+           1       0.66      0.49      0.56        80
+
+    accuracy                           0.74       231
+   macro avg       0.71      0.68      0.69       231
+weighted avg       0.73      0.74      0.72       231

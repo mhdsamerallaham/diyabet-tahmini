@@ -1,0 +1,11 @@
+En İyi K Değeri: 24
+Doğruluk Oranı (Accuracy): 0.732
+Sınıflandırma Raporu:
+              precision    recall  f1-score   support
+
+           0       0.75      0.87      0.81       151
+           1       0.66      0.46      0.54        80
+
+    accuracy                           0.73       231
+   macro avg       0.71      0.67      0.68       231
+weighted avg       0.72      0.73      0.72       231
